@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Firebase Autentikasi</string>
+
+    <string name="minimum_password">Password terlalu pendek, masukan  minimum 6 karakter!</string>
+    <string name="auth_failed">Autentikasi Gagal, cek email dan password anda atau Akun anda tidak terdaftar</string>
+    <string name="action_sign_in_short">Daftar</string>
+    <string name="email">Email</string>
+    <string name="change_email">Ganti Email</string>
+    <string name="change_password">Ganti Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Hapus Akun</string>
+    <string name="new_pass">Password Baru</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Lupa Kata Sandi?</string>
+    <string name="btn_reset_password">Atur Ulang Sandi</string>
+    <string name="btn_back"><![CDATA[<< Kembali]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">Kita hanya perlu Email Anda untuk mengirimkan petunjuk untuk mengatur ulang kata sandi anda.</string>
+    <string name="selamatdatang">Selamat Datang</string>
+    <string name="autentikasi">Diperlukan akun untuk masuk</string>
+    <string name="masukgoogle">Masuk dengan akun Google</string>
+    <string name="masuk">Warga Sekolah</string>
+    <string name="kenapaharuslogin">Kenapa sih harus login?</string>
+    <string name="tamusekolah">Tamu Sekolah</string>
+    <string name="btn_logout_from_google">Logout from Google</string>
+    <string name="btn_revoke_access">Revoke Access</string>
+    <string name="loading">Mempersiapkan Peronity Station...</string>
+    <string name="label_google_sign_in">Firebase + Google Sign In</string>
+</resources>

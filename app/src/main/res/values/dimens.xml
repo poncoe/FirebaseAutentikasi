@@ -1,0 +1,31 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="icon_top_margin">24dp</dimen>
+    <dimen name="icon_bottom_margin">24dp</dimen>
+    <dimen name="title_bottom_margin">16dp</dimen>
+    <dimen name="field_width_standard">160dp</dimen>
+    <dimen name="logo_w_h">100dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <dimen name="touch_default">45dp</dimen>
+    <dimen name="player_height">120dp</dimen>
+    <dimen name="icon_with">65dp</dimen>
+    <dimen name="icon_height">80dp</dimen>
+    <dimen name="text_size">10sp</dimen>
+
+
+    <dimen name="textview_height">50dp</dimen>
+    <dimen name="textview_left_padding">15dp</dimen>
+    <dimen name="textview_right_padding">10dp</dimen>
+
+    <dimen name="dots_height">30dp</dimen>
+    <dimen name="dots_margin_bottom">20dp</dimen>
+    <dimen name="img_width_height">120dp</dimen>
+    <dimen name="slide_title">30dp</dimen>
+    <dimen name="slide_desc">16dp</dimen>
+    <dimen name="desc_padding">40dp</dimen>
+</resources>
